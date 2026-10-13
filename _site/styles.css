@@ -1,0 +1,42 @@
+/* css styles */
+.navbar-dark,
+.quarto-title-banner {
+  background-color: #173F46;
+}
+
+/* title banner font colour */
+.quarto-title-banner .title {
+color: #FFFFFF !important;
+}
+
+/* background and text on the main page*/
+body {
+  background-color: #F7F8F4;
+  color: #263238;
+}
+
+/* color of the Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #176B67;
+}
+
+/* Links */
+a {
+  color: #167D78;
+}
+
+a:hover {
+  color: #104F4B;
+}
+
+/* Navigation text */
+.navbar-dark .navbar-brand,
+.navbar-dark .nav-link {
+  color: #FFFFFF;
+}
+
+/* Code blocks */
+pre {
+  background-color: #EDF1ED;
+  border-radius: 6px;
+}
