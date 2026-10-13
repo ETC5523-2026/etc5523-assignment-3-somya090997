@@ -95,4 +95,7 @@ The strongest message is about layers of protection. Quarantine and infection-co
 
 This is why the findings of the study matter. Public health decisions need to consider quarantine, infection control and community vaccination together. Their model does not predict every real-world outcome, but it shows why relying on one measure alone can leave gaps in protection.
 
+## References
+
+Zachreson, C., Shearer, F. M., Price, D. J., Lydeamore, M. J., McVernon, J., McCaw, J., & Geard, N. (2022).[COVID-19 in low-tolerance border quarantine systems: Impact of the Delta variant of SARS CoV-2. Science Advances, 8(14), eabm3624.](https://doi.org/10.1126/sciadv.abm3624)
 

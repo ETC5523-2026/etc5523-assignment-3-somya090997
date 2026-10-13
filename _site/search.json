@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Hola! I am Somya, powered by curiosity and questionable amounts of coffee.\nFrom ‘what on earth is going on here?’ to ‘aha, there’s a pattern!’\nI’m fascinated by the little things that make the bigger picture make sense. Give me a dataset, an interesting question, and a little coffee, and I’ll happily go looking for patterns that others might miss.\nWith a background in Economics and a growing passion for Business Analytics, I’m exploring how data can turn everyday questions into meaningful insights. From experimenting with R and Python to creating visualisations and uncovering trends, I’m learning to make numbers tell stories worth listening to."
-  },
-  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Effectiveness of Border Quarantine & Vaccination in Covid Curtailment",
     "section": "",
     "text": "Wondering if it was just one thing that worked to curtail COVID-19? Well, you might find this reading interesting!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The data has spoken!",
-    "section": "",
-    "text": "Numbers tell stories.The trick is knowing how to listen.I’m a curious mind with an analytical heart. I question everything, look for patterns where others see chaos, and believe that the best connections deserve more than a passing observation. Whether it’s people, ideas or data, I like to dig a little deeper, test my assumptions and see if there’s something meaningful beneath the surface.\nI appreciate consistency, value evidence over empty promises, and have a soft spot for anything that makes intellectual curiosity feel a little like romance. I might overanalyse a text, calculate the probability of an outcome, or look for a trend where there is none,but at least I’ll try to validate my hypothesis before jumping to conclusions.\n\n\n\nCredits: AI tool\n\n\nMy ideal connection? Strong correlation, minimal confounding variables, mutual effort, and results that remain significant beyond the honeymoon phase.\nBecause chemistry is lovely, but reproducibility is attractive. And if we’re going to call it a connection, let’s make sure the sample size is greater than one.\nListening to these stories →"
-  },
-  {
-    "objectID": "blogs.html",
-    "href": "blogs.html",
-    "title": "Data Docklands",
-    "section": "",
-    "text": "Effectiveness of Border Quarantine & Vaccination in Covid Curtailment\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 13, 2026\n\n\nSomya Verma\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html#understanding-what-border-quarantine-is-all-about",
@@ -49,11 +28,32 @@
     "text": "Conclusion: No single lock can do the whole job\nSo, can vaccines keep a border safe? The study suggests that vaccination can help, but border quarantine cannot make up for low vaccination across the community when facing a highly transmissible virus such as Delta.\nThe strongest message is about layers of protection. Quarantine and infection-control measures can reduce the chance of an infection escaping. If a breach happens, high vaccine effectiveness combined with high community coverage can help delay an outbreak. The balance changes as the virus and vaccine performance change.\nThis is why the findings of the study matter. Public health decisions need to consider quarantine, infection control and community vaccination together. Their model does not predict every real-world outcome, but it shows why relying on one measure alone can leave gaps in protection."
   },
   {
-    "objectID": "index.html#stories-worth-exploring",
-    "href": "index.html#stories-worth-exploring",
+    "objectID": "posts/welcome/index.html#references",
+    "href": "posts/welcome/index.html#references",
+    "title": "Effectiveness of Border Quarantine & Vaccination in Covid Curtailment",
+    "section": "References",
+    "text": "References\nZachreson, C., Shearer, F. M., Price, D. J., Lydeamore, M. J., McVernon, J., McCaw, J., & Geard, N. (2022).COVID-19 in low-tolerance border quarantine systems: Impact of the Delta variant of SARS CoV-2. Science Advances, 8(14), eabm3624."
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Data Docklands",
+    "section": "",
+    "text": "Effectiveness of Border Quarantine & Vaccination in Covid Curtailment\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 13, 2026\n\n\nSomya Verma\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hola! I am Somya, powered by curiosity and questionable amounts of coffee.\nFrom ‘what on earth is going on here?’ to ‘aha, there’s a pattern!’\nI’m fascinated by the little things that make the bigger picture make sense. Give me a dataset, an interesting question, and a little coffee, and I’ll happily go looking for patterns that others might miss.\nWith a background in Economics and a growing passion for Business Analytics, I’m exploring how data can turn everyday questions into meaningful insights. From experimenting with R and Python to creating visualisations and uncovering trends, I’m learning to make numbers tell stories worth listening to."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "The data has spoken!",
-    "section": "Stories worth exploring",
-    "text": "Stories worth exploring\nEvery dataset has a story. Let’s find the questions, uncover the patterns and explore what the numbers are really telling us."
+    "section": "",
+    "text": "Numbers tell stories.The trick is knowing how to listen.I’m a curious mind with an analytical heart. I question everything, look for patterns where others see chaos, and believe that the best connections deserve more than a passing observation. Whether it’s people, ideas or data, I like to dig a little deeper, test my assumptions and see if there’s something meaningful beneath the surface.\nI appreciate consistency, value evidence over empty promises, and have a soft spot for anything that makes intellectual curiosity feel a little like romance. I might overanalyse a text, calculate the probability of an outcome, or look for a trend where there is none,but at least I’ll try to validate my hypothesis before jumping to conclusions.\n\n\n\nCredits: AI tool\n\n\nMy ideal connection? Strong correlation, minimal confounding variables, mutual effort, and results that remain significant beyond the honeymoon phase.\nBecause chemistry is lovely, but reproducibility is attractive. And if we’re going to call it a connection, let’s make sure the sample size is greater than one.\nListening to these stories →"
   },
   {
     "objectID": "index.html#lets-make-this-relationship-statistically-significant.",
