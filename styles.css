@@ -1,12 +1,24 @@
 /* css styles */
 .navbar-dark,
 .quarto-title-banner {
-  background-color: #173F46;
+  background-color:#512D82 ;
 }
 
-/* title banner font colour */
 .quarto-title-banner .title {
 color: #FFFFFF !important;
+}
+
+.quarto-title-banner .title {
+  font-family: "Lora", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Main headings */
+h1, h2, h3, h4, h5, h6 {
+font-family: "Lora", serif;
+color: #176B67;
+font-weight: 700;
 }
 
 /* background and text on the main page*/
@@ -17,7 +29,7 @@ body {
 
 /* color of the Headings */
 h1, h2, h3, h4, h5, h6 {
-  color: #176B67;
+  color: #4B0082;
 }
 
 /* Links */

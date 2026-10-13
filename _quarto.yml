@@ -4,10 +4,17 @@ project:
 website:
   title: "Patterns and Perspective"
   navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Blog"
+        href: blogs.qmd
+      - text: "About"
+        href: about.qmd
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/somya090997
+        href: https://github.com/somya090999
+
 format:
   html:
     theme: cosmo

@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: PM.jpeg
 about:
   template: jolla
   links:
@@ -10,4 +10,13 @@ about:
 
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+
+Hola! I am Somya, powered by curiosity and questionable amounts of coffee.
+
+*From ‘what on earth is going on here?’ to ‘aha, there's a pattern!’*
+
+
+I'm fascinated by the little things that make the bigger picture make sense. Give me a dataset, an interesting question, and a little coffee, and I'll happily go looking for patterns that others might miss.
+
+With a background in Economics and a growing passion for Business Analytics, I'm exploring how data can turn everyday questions into meaningful insights. From experimenting with R and Python to creating visualisations and uncovering trends, I'm learning to make numbers tell stories worth listening to.
+  
