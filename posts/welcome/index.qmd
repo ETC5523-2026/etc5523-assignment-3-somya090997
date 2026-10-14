@@ -25,14 +25,14 @@ Border quarantine helped countries such as Australia limit the spread of infecti
 
 The arrival of the Delta variant made the balance harder. Delta spread more easily than earlier versions of the virus, while vaccines were less effective at preventing infection and transmission than hoped. A system that worked under one set of conditions might not offer the same protection when the virus changed.
 
-The study asked two connected questions:
+**The study asked two connected questions:**
 
-*How does a more transmissible virus change the risk that an infection escapes quarantine?*
-*If a breach happens, how much can vaccination across the wider community delay an outbreak?*
+How does a more transmissible virus change the risk that an infection escapes quarantine?
+If a breach happens, how much can vaccination across the wider community delay an outbreak?
 
 These questions matter because a quarantine breach does not automatically become a large outbreak. What happens next also depends on how easily the virus spreads and how much protection exists in the community.
 
-### Guess What The Researchers found out! 
+### Guess What The Researchers found out?
 
 #### 1. A more transmissible virus puts more pressure on quarantine
 
@@ -64,7 +64,7 @@ The researchers modelled several combinations of these factors. Their results su
 
 The study defined an outbreak as at least five cases and measured the time until the model estimated a 50% probability of an outbreak. These are model outputs, not a promise that an outbreak will occur on a particular day.
 
-The study also examined how long infected travellers or workers could remain infectious in the community after a breach. Breach event selected scenarios compares the modelled timing of breach events across scenarios with different transmissibility and vaccine-effectiveness assumptions 
+The study also examined how long infected travellers or workers could remain infectious in the community after a breach. Breach event selected scenarios compares the modelled timing of breach events across scenarios with different transmissibility and vaccine-effectiveness assumptions.
 
 ![Breach event statistics for selected scenarios from Zachreson et al., Sci. Adv. 8, eabm3624 (2022)](Image3.jpg){#fig-study}
 
