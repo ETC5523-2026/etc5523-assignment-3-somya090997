@@ -1,14 +1,32 @@
 ---
-title: "ETC5523 Blog Assessment"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
+title: "The data has spoken!"
 page-layout: full
 title-block-banner: true
+format:
+  html:
+    css: styles.css
 ---
 
+
+
+## Let's make this relationship statistically significant. {.hero-intro}
+
+Numbers tell stories. The trick is knowing how to listen. I’m a curious mind with an analytical heart. I question everything, look for patterns where others see chaos, and believe that the best connections deserve more than a passing observation. Whether it’s people, ideas or data, I like to dig a little deeper, test my assumptions and see if there’s something meaningful beneath the surface.
+
+I appreciate consistency, value evidence over empty promises, and have a soft spot for anything that makes intellectual curiosity feel a little like romance. I might overanalyse a text, calculate the probability of an outcome, or look for a trend where there is none, but at least I’ll try to validate my hypothesis before jumping to conclusions.
+
+![Credits: AI tool](webimage.jpg) 
+
+My ideal connection? Strong correlation, minimal confounding variables, mutual effort, and results that remain significant beyond the honeymoon phase.
+
+Because chemistry is lovely, but reproducibility is attractive. And if we’re going to call it a connection, let’s make sure the sample size is greater than one.
+
+[Listening to these stories](blogs.qmd) →
+
+
+## Who am I? {#latest-stories}
+
+Just like every dataset has a story. So do I ! Get to know the mind behind the visuals right about here. 
+
+[Discover Awesomeness](about.qmd)
 

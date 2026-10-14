@@ -1,4 +1,97 @@
 /* css styles */
-.navbar-dark, .quarto-title-banner {
-  background-color: #006DAE;
+.navbar-dark,
+.quarto-title-banner {
+  background-color:#512D82 ;
+}
+
+.quarto-title-banner .title {
+color: #FFFFFF !important;
+}
+
+.quarto-title-banner .title {
+  font-family: "Lora", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+#title-block-header .quarto-title-block .title,
+.quarto-title .title {
+  text-align: center;
+  width: 100%;
+}
+
+#title-block-header .quarto-title-block {
+  text-align: center;
+}
+
+/* Main headings */
+h1, h2, h3, h4, h5, h6 {
+font-family: "Lora", serif;
+color: #176B67;
+font-weight: 700;
+}
+
+/* background and text on the main page*/
+body {
+  background-color: #F7F8F4;
+  color: #263238;
+}
+
+/* color of the Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #4B0082;
+}
+
+/* Links */
+a {
+  color: #167D78;
+}
+
+a:hover {
+  color: #104F4B;
+}
+
+/* Navigation text */
+.navbar-dark .navbar-brand,
+.navbar-dark .nav-link {
+  color: #FFFFFF;
+}
+
+/* Code blocks */
+pre {
+  background-color: #EDF1ED;
+  border-radius: 6px;
+}
+
+
+
+/* Centre-align the homepage introduction */
+body:has(#title-block-header) .hero-intro {
+  text-align: center;
+}
+
+/* Centre the main introduction heading */
+.hero-intro h1 {
+  text-align: center;
+  border-bottom: none;
+}
+
+/* Centre the introduction paragraphs */
+.hero-intro p {
+  text-align: center;
+  max-width: 850px;
+  margin: 20px auto;
+}
+
+/* Centre the stories heading and description */
+#latest-stories,
+#latest-stories h2,
+#latest-stories p {
+  text-align: center;
+}
+
+#latest-stories p {
+  max-width: 850px;
+  margin: 20px auto;
 }
